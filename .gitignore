@@ -147,3 +147,12 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# JSPaintShop
+node_modules
+dist
+*.log
+.DS_Store
+/re/
+__pycache__/
+graphify-out/

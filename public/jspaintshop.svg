@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- JSPaintShop icon: a painter's palette with five paint dabs and a brush. Original artwork, Apache-2.0. -->
+  <defs>
+    <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6c27a"/>
+      <stop offset="1" stop-color="#d98a34"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#wood)" stroke="#9a5a1c" stroke-width="2" fill-rule="evenodd" d="M31 6C47 6 60 16 60 29c0 11-8 18-17 18-5 0-7-3-11-3s-5 5-10 9C15 58 4 51 4 36 4 19 16 6 31 6Zm-12 25a5 4.3 0 1 0 0.01 0Z"/>
+  <g stroke="#00000033" stroke-width="1">
+    <circle cx="15" cy="23" r="4.6" fill="#e53935"/>
+    <circle cx="25" cy="15.5" r="4.6" fill="#fb8c00"/>
+    <circle cx="37" cy="13.5" r="4.6" fill="#fdd835"/>
+    <circle cx="48" cy="18" r="4.6" fill="#43a047"/>
+    <circle cx="54" cy="28.5" r="4.6" fill="#1e63d6"/>
+  </g>
+  <g fill="#ffffff" opacity="0.6">
+    <circle cx="13.6" cy="21.6" r="1.3"/>
+    <circle cx="23.6" cy="14.1" r="1.3"/>
+    <circle cx="35.6" cy="12.1" r="1.3"/>
+    <circle cx="46.6" cy="16.6" r="1.3"/>
+    <circle cx="52.6" cy="27.1" r="1.3"/>
+  </g>
+  <g transform="translate(61 61) rotate(-135)">
+    <rect x="0" y="-3" width="21" height="6" rx="3" fill="#2a56c6" stroke="#173a8f" stroke-width="1"/>
+    <rect x="20" y="-3.2" width="7" height="6.4" fill="#c9ced6" stroke="#7d8591" stroke-width="1"/>
+    <path d="M27 -3.2C33 -3.4 38 -1.8 41 0 38 1.8 33 3.4 27 3.2Z" fill="#6b3f1d" stroke="#3e2410" stroke-width="1"/>
+    <path d="M35 -1.9C38 -1.2 40 -0.5 41 0 40 0.5 38 1.2 35 1.9Z" fill="#e53935"/>
+  </g>
+  <g font-family="Verdana, Arial, sans-serif" font-weight="700" font-size="13" text-anchor="middle">
+    <text x="22" y="61" fill="#ffffff" stroke="#ffffff" stroke-width="3" stroke-linejoin="round">JS</text>
+    <text x="22" y="61" fill="#1d1d1b">JS</text>
+  </g>
+</svg>
